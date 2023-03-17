@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshnaThomas
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Web Development 
+- 👀 I love coding!
+- 🌱 I’m learning to make responsive and lively websites
 - 📫 How to reach me ashnamthomas95@gmail.com
 
 <!---
