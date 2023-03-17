@@ -13,7 +13,9 @@ Welcome to my GitHub profile! I'm a developer with experience in HTML, CSS, Java
 ## Goals
 
 • To learn more about React, React Router, Redux, Server-side          rendering, Hooks, Context API, React Native, Third-party libraries (Axios, Lodash, Moment.js, Redux Toolkit, etc.)
+
 • To build a portfolio of projects to showcase my work to potential employers or collaborators.
+
 • To connect with other developers and participate in the open-source community.
 
 
